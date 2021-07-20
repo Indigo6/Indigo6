@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Liva | Personal blog template</title>
-    <link>https://demo.gethugothemes.com/liva/tags/</link>
-    <description>Recent content in Tags on Liva | Personal blog template</description>
+    <title>Tags on 方林 | 个人博客</title>
+    <link>https://indigo6.github.io/Indigo6/tags/</link>
+    <description>Recent content in Tags on 方林 | 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
-      <link>https://demo.gethugothemes.com/liva/tags/game/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/game/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://demo.gethugothemes.com/liva/tags/html/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/html/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://demo.gethugothemes.com/liva/tags/new/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/new/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/new/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://demo.gethugothemes.com/liva/tags/photos/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/photos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/photos/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://demo.gethugothemes.com/liva/tags/python/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/python/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://demo.gethugothemes.com/liva/tags/react/</link>
+      <link>https://indigo6.github.io/Indigo6/tags/react/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/tags/react/</guid>
+      <guid>https://indigo6.github.io/Indigo6/tags/react/</guid>
       <description></description>
     </item>
     
