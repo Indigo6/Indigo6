@@ -2,34 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://indigo6.github.io/Indigo6/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://indigo6.github.io/Indigo6/categories/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://indigo6.github.io/Indigo6/contact/</loc>
+    <loc>https://indigo6.github.io/Indigo6/tags/photos/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/tags/poems/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/tags/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/blog/post-1/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/categories/%E8%AF%97/</loc>
+    <lastmod>2021-07-23T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/categories/html-css/</loc>
+    <lastmod>2021-05-21T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/blog/post-2/</loc>
+    <lastmod>2021-05-21T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/categories/web-design/</loc>
+    <lastmod>2020-03-27T15:56:45+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/blog/post-3/</loc>
+    <lastmod>2020-03-27T15:56:45+06:00</lastmod>
+  </url><url>
+    <loc>https://indigo6.github.io/Indigo6/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
+    <loc>https://indigo6.github.io/Indigo6/contact/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
     <loc>https://indigo6.github.io/Indigo6/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/categories/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/tags/game/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/blog/post-1/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/blog/post-10/</loc>
@@ -42,12 +63,6 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/blog/post-2/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/blog/post-3/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/blog/post-4/</loc>
@@ -74,13 +89,7 @@
     <loc>https://indigo6.github.io/Indigo6/categories/html/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://indigo6.github.io/Indigo6/categories/html-css/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://indigo6.github.io/Indigo6/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/tags/photos/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/categories/programming-language/</loc>
@@ -90,15 +99,6 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://indigo6.github.io/Indigo6/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/tags/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://indigo6.github.io/Indigo6/categories/web-design/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>

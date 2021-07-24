@@ -6,13 +6,31 @@
     <description>Recent content in Categories on 方林 | 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android And Gaming</title>
-      <link>https://indigo6.github.io/Indigo6/categories/android-and-gaming/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>诗</title>
+      <link>https://indigo6.github.io/Indigo6/categories/%E8%AF%97/</link>
+      <pubDate>Fri, 23 Jul 2021 10:07:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/categories/android-and-gaming/</guid>
+      <guid>https://indigo6.github.io/Indigo6/categories/%E8%AF%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://indigo6.github.io/Indigo6/categories/html-css/</link>
+      <pubDate>Fri, 21 May 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://indigo6.github.io/Indigo6/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://indigo6.github.io/Indigo6/categories/web-design/</link>
+      <pubDate>Fri, 27 Mar 2020 15:56:45 +0600</pubDate>
+      
+      <guid>https://indigo6.github.io/Indigo6/categories/web-design/</guid>
       <description></description>
     </item>
     
@@ -35,15 +53,6 @@
     </item>
     
     <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://indigo6.github.io/Indigo6/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Programming Language</title>
       <link>https://indigo6.github.io/Indigo6/categories/programming-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
@@ -58,15 +67,6 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://indigo6.github.io/Indigo6/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://indigo6.github.io/Indigo6/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/categories/web-design/</guid>
       <description></description>
     </item>
     

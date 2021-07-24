@@ -6,7 +6,25 @@
     <description>Recent content in Tags on 方林 | 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos</title>
+      <link>https://indigo6.github.io/Indigo6/tags/photos/</link>
+      <pubDate>Fri, 23 Jul 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://indigo6.github.io/Indigo6/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poems</title>
+      <link>https://indigo6.github.io/Indigo6/tags/poems/</link>
+      <pubDate>Fri, 23 Jul 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://indigo6.github.io/Indigo6/tags/poems/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Game</title>
       <link>https://indigo6.github.io/Indigo6/tags/game/</link>
@@ -35,29 +53,11 @@
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://indigo6.github.io/Indigo6/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://indigo6.github.io/Indigo6/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://indigo6.github.io/Indigo6/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://indigo6.github.io/Indigo6/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/tags/react/</guid>
       <description></description>
     </item>
     
