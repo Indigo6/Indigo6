@@ -8,30 +8,30 @@
     <language>zh-cn</language>
     <lastBuildDate>Sat, 24 Jul 2021 10:40:47 +0600</lastBuildDate><atom:link href="https://indigo6.github.io/Indigo6/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo建主页之路(2): 文章字数、阅读时间和阅读量统计</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-4/</link>
+      <title>Hugo建主页之路(3): 文章字数、阅读时间和阅读量统计</title>
+      <link>https://indigo6.github.io/Indigo6/blog/post-7/</link>
       <pubDate>Sat, 24 Jul 2021 10:40:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/blog/post-4/</guid>
+      <guid>https://indigo6.github.io/Indigo6/blog/post-7/</guid>
       <description>字数和阅读时间统计 通过检查网页，找到文章</description>
     </item>
     
     <item>
-      <title>午后</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-1/</link>
-      <pubDate>Fri, 23 Jul 2021 10:07:47 +0600</pubDate>
+      <title>Hugo建主页之路(2): 如何将主题包个性化</title>
+      <link>https://indigo6.github.io/Indigo6/blog/post-6/</link>
+      <pubDate>Mon, 12 Jul 2021 10:07:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/blog/post-1/</guid>
-      <description>明朗的窗户，我坐在明朗的窗户面前。 二三十</description>
+      <guid>https://indigo6.github.io/Indigo6/blog/post-6/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
-      <title>窒</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-2/</link>
-      <pubDate>Fri, 21 May 2021 10:07:47 +0600</pubDate>
+      <title>Hugo建主页之路(1): 从零开始</title>
+      <link>https://indigo6.github.io/Indigo6/blog/post-5/</link>
+      <pubDate>Sat, 03 Jul 2021 10:07:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/blog/post-2/</guid>
-      <description>空气中热湿的欲望早已饱和， 闷紧人们胸腔。</description>
+      <guid>https://indigo6.github.io/Indigo6/blog/post-5/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
@@ -44,75 +44,21 @@
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-10/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>午后</title>
+      <link>https://indigo6.github.io/Indigo6/blog/post-1/</link>
+      <pubDate>Wed, 23 Jan 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/blog/post-10/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://indigo6.github.io/Indigo6/blog/post-1/</guid>
+      <description>明朗的窗户，我坐在明朗的窗户面前。 二三十</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-11/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>窒</title>
+      <link>https://indigo6.github.io/Indigo6/blog/post-2/</link>
+      <pubDate>Mon, 21 May 2018 10:07:47 +0600</pubDate>
       
-      <guid>https://indigo6.github.io/Indigo6/blog/post-11/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-5/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-7/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-7/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-8/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-8/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://indigo6.github.io/Indigo6/blog/post-9/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://indigo6.github.io/Indigo6/blog/post-9/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://indigo6.github.io/Indigo6/blog/post-2/</guid>
+      <description>空气中热湿的欲望早已饱和， 闷紧人们胸腔。</description>
     </item>
     
   </channel>
