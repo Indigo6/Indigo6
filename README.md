@@ -1,4 +1,4 @@
-[![Indigo6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indigo6&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Indigo6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indigo6&count_private=true&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🎓 School: [USTC](https://ustc.edu.cn/) (master)
 - 📖 Blogs: [知乎/Indigo6](https://www.zhihu.com/people/Samaritan-53-67)
