@@ -3,7 +3,6 @@
 - 🎓 School: [USTC](https://ustc.edu.cn/) (master)
 - 📖 Blogs: [知乎/Indigo6](https://www.zhihu.com/people/Samaritan-53-67)
 - 🔭 Reasearch Interest: Human Pose Estimation
-- 👯 Research Group: [USTC-AC](https://ustc-ac.github.io/)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
