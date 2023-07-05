@@ -2,7 +2,7 @@
 
 - 🎓 School: [USTC](https://ustc.edu.cn/) (master)
 - 📖 Blogs: [知乎/Indigo6](https://www.zhihu.com/people/Samaritan-53-67)
-- 🔭 Reasearch Interest: Human Pose Estimation
+- 🔭 Reasearch Interest: Object\Keypoint Detection
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
